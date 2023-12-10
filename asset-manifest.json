@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RAHUL-HACKER-HACKER/quickshell/static/css/main.aa85a564.css",
+    "main.js": "/RAHUL-HACKER-HACKER/quickshell/static/js/main.0bf59432.js",
+    "index.html": "/RAHUL-HACKER-HACKER/quickshell/index.html",
+    "main.aa85a564.css.map": "/RAHUL-HACKER-HACKER/quickshell/static/css/main.aa85a564.css.map",
+    "main.0bf59432.js.map": "/RAHUL-HACKER-HACKER/quickshell/static/js/main.0bf59432.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa85a564.css",
+    "static/js/main.0bf59432.js"
+  ]
+}

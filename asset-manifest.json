@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/RAHUL-HACKER-HACKER/quickshell/static/css/main.aa85a564.css",
-    "main.js": "/RAHUL-HACKER-HACKER/quickshell/static/js/main.0bf59432.js",
-    "index.html": "/RAHUL-HACKER-HACKER/quickshell/index.html",
-    "main.aa85a564.css.map": "/RAHUL-HACKER-HACKER/quickshell/static/css/main.aa85a564.css.map",
-    "main.0bf59432.js.map": "/RAHUL-HACKER-HACKER/quickshell/static/js/main.0bf59432.js.map"
+    "main.css": "/quickshell/static/css/main.aa85a564.css",
+    "main.js": "/quickshell/static/js/main.afc9c991.js",
+    "index.html": "/quickshell/index.html",
+    "main.aa85a564.css.map": "/quickshell/static/css/main.aa85a564.css.map",
+    "main.afc9c991.js.map": "/quickshell/static/js/main.afc9c991.js.map"
   },
   "entrypoints": [
     "static/css/main.aa85a564.css",
-    "static/js/main.0bf59432.js"
+    "static/js/main.afc9c991.js"
   ]
 }
